@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:dice_roller/gradient_container.dart';
+import 'package:dice_roller/dice_roller.dart';
 
 void main() {
   runApp(const MaterialApp(
@@ -8,10 +9,7 @@ void main() {
       Colors.indigo,
       Colors.purple,
       Center(
-        child: Text(
-          'Hello World',
-          style: TextStyle(fontSize: 28),
-        ),
+        child: DiceRoller(),
       ),
     )),
   ));
