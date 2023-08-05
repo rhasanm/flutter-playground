@@ -1,14 +1,18 @@
 import 'package:flutter/material.dart';
+import 'package:dice_roller/gradient_container.dart';
 
 void main() {
   runApp(const MaterialApp(
     home: Scaffold(
-      body: Center(
+        body: GradientContainer(
+      Colors.indigo,
+      Colors.purple,
+      Center(
         child: Text(
           'Hello World',
-          style: TextStyle(color: Colors.red),
+          style: TextStyle(fontSize: 28),
         ),
       ),
-    ),
+    )),
   ));
 }
