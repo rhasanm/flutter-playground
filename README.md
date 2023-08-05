@@ -10,6 +10,6 @@
 
 <img
   src="documentation/DiceRoller.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 150px">
+  alt="Dice Roller"
+  title="https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/"
+  style="display: inline-block; margin: 0 auto; width: 150px">
