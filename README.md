@@ -7,5 +7,4 @@
 # PROJECTS
 
 ## Dice Roller
-- ScreenShots
-![Dice Roller](documetation/DiceRoller.png)
+![Dice Roller](/documetation/DiceRoller.png)
