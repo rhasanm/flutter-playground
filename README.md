@@ -7,4 +7,4 @@
 # PROJECTS
 
 ## Dice Roller
-![Dice Roller](documetation/DiceRoller.png)
+![Dice Roller](documentation/DiceRoller.png)
